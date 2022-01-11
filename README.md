@@ -11,4 +11,9 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 - 📫 How to reach me:DM 📱 email-dj.jarout@gmail.com.
 <!-- - 😄 Pronouns: -->
 <!-- - ⚡ Github -->
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="Deepa GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deepajarout&show_icons=true&hide_border=true&count_private=true" />
+
+</details>
