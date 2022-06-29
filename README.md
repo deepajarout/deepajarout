@@ -36,7 +36,7 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 <!-- - ⚡ Github -->
 
 
-### GitHub Stats
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
