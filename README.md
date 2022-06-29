@@ -10,7 +10,7 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 - 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
 - 📫 How to reach me:DM 📱 email-dj.jarout@gmail.com.
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/deepajarout/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
 
@@ -30,6 +30,7 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 
 <a href="https://www.quora.com/profile/Deepa-Jarout-1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/pngaaa.com-2253457.png" alt="deepa jarout | Quora" width="35px" /></a>
 </br>
+</br>
 
 
 ## 💼 Technical Skills
@@ -37,8 +38,6 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
@@ -55,16 +54,15 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📝 Latest Blog Posts
 
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
+- [How to add a free SSL Certificate to your website?](https://medium.com/@deepajarout/how-to-add-a-free-ssl-certificate-to-your-website-736a41837a1)
+- [Data Types In Javascript](https://medium.com/@deepajarout/data-types-in-javascript-fd7cd14ad4a7)
+- [Variables In Javascript](https://medium.com/@deepajarout/variables-in-javascript-ef840522e80d))
+
 
 ## 📈 GitHub Stats 
 
@@ -72,7 +70,7 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&layout=compact)](https://github.com/deepajarout)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=deepajarout.deepajarout)](https://www.deepajarout.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=deepajarout.deepajarout)]
 view rawREADME.txt hosted with ❤ by GitHub
 
 
