@@ -22,7 +22,7 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 
 <a href="https://youtube.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="21px"/></a>
 
-<a href="https://deepajarout.medium.com/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/images/medium.svg" alt="deepa jarout | Medium" width="21px"/></a>
+<a href="https://deepajarout.medium.com/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/7079378_medium_medium logo_icon.png" alt="deepa jarout | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
