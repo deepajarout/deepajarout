@@ -29,16 +29,13 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 <a href="mailto:dj.jarout@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2613304_answers_insights_knowledge_questions_quora_icon.png" alt="deepa jarout | Quora" width="48px"/></a>
 
 <a href="https://www.quora.com/profile/Deepa-Jarout-1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/pngaaa.com-2253457.png" alt="deepa jarout | Quora" width="48px" height="48px"/></a>
-
 </br>
 
 
 <!-- - 😄 Pronouns: -->
 <!-- - ⚡ Github -->
+
 <details>
-
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Deepa GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deepajarout&show_icons=true&hide_border=true&count_private=true" />
-
 </details>
