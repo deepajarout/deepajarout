@@ -14,15 +14,15 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 
 <a href="https://www.linkedin.com/in/deepajarout/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="21px"/></a>
 
-<a href="https://instagram.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="21px"/></a>
+<a href="https://instagram.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="48px"/></a>
 
-<a href="https://facebook.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="deepa Jarout| Facebook" width="21px"/></a>
+<a href="https://facebook.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="deepa Jarout| Facebook" width="48px"/></a>
 
-<a href="https://youtube.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296521_play_video_vlog_youtube_youtube logo_icon.png" alt="deepa Jarout| Youtube" width="21px"/></a>
+<a href="https://youtube.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296521_play_video_vlog_youtube_youtube logo_icon.png" alt="deepa Jarout| Youtube" width="48px"/></a>
 
-<a href="https://youtube.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="21px"/></a>
+<a href="https://youtube.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="48px"/></a>
 
-<a href="https://deepajarout.medium.com/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/7079378_medium_medium logo_icon.png" alt="deepa jarout | Medium" width="21px"/></a>
+<a href="https://deepajarout.medium.com/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/7079378_medium_medium logo_icon.png" alt="deepa jarout | Medium" width="48px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
