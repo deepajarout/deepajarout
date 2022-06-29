@@ -25,12 +25,13 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 <a href="https://deepajarout.medium.com/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/images/medium.svg" alt="deepa jarout | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-- 
+
+  
+<!-- - 😄 Pronouns: -->
+<!-- - ⚡ Github -->
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Deepa GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deepajarout&show_icons=true&hide_border=true&count_private=true" />
-  
-<!-- - 😄 Pronouns: -->
-<!-- - ⚡ Github -->
+
 </details>
