@@ -35,9 +35,9 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/node.js-6DA55F?sstyle=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?sstyle=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/gaming-unity-informational?style=flat&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/Framework-node.js-informational?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
