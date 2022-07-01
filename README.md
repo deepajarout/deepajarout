@@ -69,9 +69,9 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 
 </br>
 
-![](https://img.shields.io/badge/Tools-cypress-informational?style=flat&logo=cypress&logoColor=058a5e)
-![](https://img.shields.io/badge/Tools-jest-informational?style=flat&logo=jest&logoColor=white)
-![](https://img.shields.io/badge/Tools-mocha-informational?style=flat&logo=mocha&logoColor=white)
+![](https://img.shields.io/badge/TestingTools-cypress-informational?style=flat&logo=cypress&logoColor=058a5e)
+![](https://img.shields.io/badge/TestingTools-jest-informational?style=flat&logo=jest&logoColor=white)
+![](https://img.shields.io/badge/testingTools-mocha-informational?style=flat&logo=mocha&logoColor=white)
 
 </br>
 
