@@ -16,7 +16,7 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 
 <a href="https://instagram.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
 
-<a href="https://www.facebook.com/deepajarout.developer"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="deepa Jarout| Facebook" width="35px"/></a>
+<a href="https://www.facebook.com/deepajarout0"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="deepa Jarout| Facebook" width="35px"/></a>
 
 <a href="https://www.youtube.com/channel/UCD1TmriSJKAZQPmWsqb8dnQ"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296521_play_video_vlog_youtube_youtube logo_icon.png" alt="deepa Jarout| Youtube" width="35px"/></a>
 
@@ -35,9 +35,9 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/node.js-6DA55F?sstyle=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?sstyle=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
@@ -46,8 +46,8 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/code-GraphQL-informational?style=for-the-badge&logo=graphql&logoColor=white)
-![](https://img.shields.io/badge/code-JWT-informational?style=for-the-badge&logo=JSON%20web%20tokens)
-![](https://img.shields.io/badge/code-GULP-informational?style=for-the-badge&logo=gulp&logoColor=white)
+![](https://img.shields.io/badge/code-JWT-informational?style=flat&logo=JSON%20web%20tokens)
+![](https://img.shields.io/badge/code-GULP-informational?style=flat&logo=gulp&logoColor=white)
 
 </br>
 
@@ -64,19 +64,19 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Tools-bitbucket-informational?style=flat&logo=bitbucket&logoColor=white)
+![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white)
 
 </br>
 
-![](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![](https://img.shields.io/badge/Tools-cypress-informational?style=flat&logo=cypress&logoColor=058a5e)
+![](https://img.shields.io/badge/Tools-jest-informational?style=flat&logo=jest&logoColor=white)
+![](https://img.shields.io/badge/Tools-mocha-informational?style=flat&logo=mocha&logoColor=white)
 
 </br>
 
-![](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![](https://img.shields.io/badge/server-nginx-informational?style=flat&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/server-jenkins-informational?style=flat&logo=jenkins&logoColor=white)
 
 
 ## 📝 Latest Blog Posts
