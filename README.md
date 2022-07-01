@@ -26,9 +26,9 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 
 <a href="mailto:dj.jarout@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px"/></a>
 
-<a href="mailto:dj.jarout@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2613304_answers_insights_knowledge_questions_quora_icon.png" alt="deepa jarout | Quora" width="35px"/></a>
+<a href="https://www.quora.com/profile/Deepa-Jarout-1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2613304_answers_insights_knowledge_questions_quora_icon.png" alt="deepa jarout | Quora" width="35px"/></a>
 
-<a href="https://www.quora.com/profile/Deepa-Jarout-1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/pngaaa.com-2253457.png" alt="deepa jarout | Quora" width="35px" /></a>
+<a href="https://www.yourquote.in/deepa-jarout-bcnif/quotes"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/pngaaa.com-2253457.png" alt="deepa jarout | Quora" width="35px" /></a>
 </br>
 </br>
 
